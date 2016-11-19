@@ -1,0 +1,130 @@
+.name_display {
+    max-width: 250px;
+    background-color: #4aaaa5;
+    margin-bottom: 0px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 26px;
+    padding: 20px;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+}
+
+.contentheading {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+body {
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-color: #eeeeee;
+    background-image: url("../images/eight_horns.png");
+}
+
+.content_background {
+    background-color: #ffffff;
+    width: 650px;
+    border: #dddddd solid 1px;
+    margin-left: 1em;
+}
+
+#logo_size {
+    height: 45px;
+    width: 45px;
+    padding: 5px;
+}
+
+.image-wrapper {
+    position: relative;
+    float: center;
+    width: 180px;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.image-wrapper h3 {
+    position: absolute;
+    bottom: 15px;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+
+.h3_width {
+    padding-left: 20px;
+    width: 200px;
+    background-color: #4aaaa5;
+    height: 35px;
+    text-align: center;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #ffffff;
+    margin-left: 0px;
+    font-size: 16px;
+    padding-bottom: 25px;
+}
+
+.container {
+    
+}
+
+.footer {
+    text-align: center;
+    background-color: #666666;
+    padding: 20px;
+    border-top: #4aaaa5 solid 4px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 11px;
+    color: #ffffff;
+    height: 35px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-top: 20px;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    position: relative;
+    height: 100%;
+}
+
+.btn-default {
+    background-color: #4aaaa5;
+}
+
+.btn {
+    border-radius: 0px;
+    color: #ffffff;
+}
+
+.sidebar {
+    background-color: #ffffff;
+    max-width: 270px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 0px;
+    border: #dddddd solid 1px;
+    padding-top: 0px;
+}
+
+.page-header {
+    font-weight: bolder;
+}
+
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -4em;
+}
+
+.push {
+    height: 35px;
+}
